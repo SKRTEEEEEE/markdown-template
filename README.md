@@ -20,9 +20,9 @@ Template basico de markdown, especializado para proyectos en desarollo, especial
 
 ### Licencia
 
-### [Información de Contacto]
+### Información de Contacto
 
-#### [Envianos un mensaje](queen420nft@gmail.com)
+#### [Envianos un mensaje](mailto:queen420nft@gmail.com)
 
 ### Contribuciones y Problemas
 

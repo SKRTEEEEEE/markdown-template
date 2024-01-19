@@ -1,10 +1,10 @@
 # Descripción del Proyecto
 
-### Objetivos
+## Objetivos
 
-#### Funcionalidades Principales
+### Funcionalidades Principales
 
-#### Casos de Uso
+### Casos de Uso
 
 ## Componentes del Proyecto
 
