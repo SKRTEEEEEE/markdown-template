@@ -1,6 +1,13 @@
-# Markdown Basic Template
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Template basico de markdown, especializado para proyectos en desarollo, especialmente para interactuar con Blockchains.
+# Markdown-basic-template
+
+<div align="center">
+  <img  src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/main/resources/img/grid-snake.svg"
+       alt="snake" />
+</div>
+
+Template basico de markdown, especializado para proyectos individuales en desarollo, especialmente para interactuar con Blockchains.
 
 ## [Descripción del Proyecto](markdown/descripcion.md)
 
@@ -12,18 +19,16 @@ Template basico de markdown, especializado para proyectos en desarollo, especial
 
 ## Contacto
 
-### Equipo
-
-#### Miembros del Equipo
-
-#### Agradecimientos
+### Agradecimientos
 
 ### Licencia
 
 ### Información de Contacto
 
-#### [Envianos un mensaje](mailto:queen420nft@gmail.com)
+#### [Enviame un mensaje](mailto:adanreh.m@gmail.com)
 
 ### Contribuciones y Problemas
 
 Si encuentras problemas o deseas contribuir al proyecto, por favor, crea un issue en el repositorio.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
