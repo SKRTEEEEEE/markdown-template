@@ -14,7 +14,25 @@
 - [Solidity](https://docs.soliditylang.org/en/v0.8.23/): Lenguaje utilizado para el desarrollo de contratos inteligentes.
 - [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript): Utilizado para la creación de interfaces de usuario y la interacción con los contratos desplegados.
 
-### Herramientas y Frameworks
+### Herramientas de desarollo
 
 - [Remix IDE](https://remix.ethereum.org/): Entorno integrado de desarrollo utilizado para escribir, probar y desplegar contratos inteligentes.
 - [MetaMask](https://metamask.io/): Extensión de navegador utilizada para interactuar con aplicaciones descentralizadas (dApps) y cadenas de bloques.
+
+### Herramientas de edición
+
+- [Modificador de formatos de imagen](https://squoosh.app/editor): Modificador de formatos (.jpg, .avif, .png, ...) para mejorar rendimientos
+
+## Como empezar
+Instalar las dependencias
+```bash
+npm i
+``` 
+### [Empezar con NextJS](empezar-vercel.md)
+
+## Tips
+
+### [Shortcuts](shortcuts.md)
+### [Other](other-tips.md)
+
+

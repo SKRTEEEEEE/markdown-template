@@ -7,13 +7,11 @@
        alt="snake" />
 </div>
 
-Template basico de markdown, especializado para proyectos individuales en desarollo, especialmente para interactuar con Blockchains.
+Template basico de markdown, especializado para proyectos individuales de  desarollo web Fullstack(cliente y servidor).
 
-## [Descripción del Proyecto](markdown/descripcion.md)
+## [Descripción](markdown/descripcion.md)
 
 ## [Proceso](markdown/proceso.md)
-
-## [Contratos Desplegados](markdown/contratos_desplegados.md)
 
 ## [Recursos](markdown/recursos.md)
 
