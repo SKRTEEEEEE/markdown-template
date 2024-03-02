@@ -1,17 +1,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # Markdown-basic-template
-
+<a href="https://github.com/SKRTEEEEEE">
 <div align="center">
   <img  src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/main/resources/img/grid-snake.svg"
        alt="snake" />
+    
 </div>
+</a>
 
 Template basico de markdown, especializado para proyectos individuales en desarollo, especialmente para interactuar con Blockchains.
 
 ## [Descripción del Proyecto](markdown/descripcion.md)
-
-## [Proceso](markdown/proceso.md)
 
 ## [Contratos Desplegados](markdown/contratos_desplegados.md)
 
