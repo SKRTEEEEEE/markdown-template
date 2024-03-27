@@ -11,8 +11,6 @@
 
 Template basico de markdown, especializado para proyectos individuales en desarollo, especialmente para interactuar con Blockchains.
 
-## [Descripción del Proyecto](markdown/descripcion.md)
-
 ## [Contratos Desplegados](markdown/contratos_desplegados.md)
 
 ## [Recursos](markdown/recursos.md)
