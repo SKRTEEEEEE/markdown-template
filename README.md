@@ -9,8 +9,6 @@
 </a>
 Template basico de markdown, especializado para proyectos individuales de  desarollo web Fullstack(cliente y servidor).
 
-## [Descripción](markdown/descripcion.md)
-
 ## [Recursos](markdown/recursos.md)
 
 ## Contacto
