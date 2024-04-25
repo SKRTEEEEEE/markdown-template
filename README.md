@@ -9,24 +9,9 @@
 </div>
 </a>
 
-Template básico de markdown, especializado para proyectos individuales en desarrollo, especialmente para interactuar con Blockchains.
+Templates básicos de markdown, especializados para proyectos individuales en desarrollo.
+- Fullstack -> Version en Sp para proyectos fullstack
+- Blockchain -> Version en Sp para proyectos blockchain
 
-## [Contratos Desplegados](markdown/contratos_desplegados.md)
-
-## [Recursos](https://github.com/SKRTEEEEEE/markdowns)
-
-## Contacto
-
-### Agradecimientos
-
-### Licencia
-
-### Información de Contacto
-
-#### [Envíame un mensaje](mailto:adanreh.m@gmail.com)
-
-### Contribuciones y Problemas
-
-Si encuentras problemas o deseas contribuir al proyecto, por favor, crea un issue en el repositorio.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
