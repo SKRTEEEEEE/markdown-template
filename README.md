@@ -9,7 +9,7 @@
 </a>
 Template básico de markdown, especializado para proyectos individuales de  desarrollo web Fullstack(cliente y servidor).
 
-## [Recursos](markdown/recursos.md)
+## [Recursos](https://github.com/SKRTEEEEEE/markdowns)
 
 ## Contacto
 
