@@ -9,11 +9,11 @@
 </div>
 </a>
 
-Template basico de markdown, especializado para proyectos individuales en desarollo, especialmente para interactuar con Blockchains.
+Template básico de markdown, especializado para proyectos individuales en desarrollo, especialmente para interactuar con Blockchains.
 
 ## [Contratos Desplegados](markdown/contratos_desplegados.md)
 
-## [Recursos](markdown/recursos.md)
+## [Recursos](https://github.com/SKRTEEEEEE/markdowns)
 
 ## Contacto
 
@@ -23,7 +23,7 @@ Template basico de markdown, especializado para proyectos individuales en desaro
 
 ### Información de Contacto
 
-#### [Enviame un mensaje](mailto:adanreh.m@gmail.com)
+#### [Envíame un mensaje](mailto:adanreh.m@gmail.com)
 
 ### Contribuciones y Problemas
 
