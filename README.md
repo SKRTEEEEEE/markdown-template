@@ -7,7 +7,7 @@
        alt="snake" />
 </div>
 </a>
-Template basico de markdown, especializado para proyectos individuales de  desarollo web Fullstack(cliente y servidor).
+Template básico de markdown, especializado para proyectos individuales de  desarrollo web Fullstack(cliente y servidor).
 
 ## [Recursos](markdown/recursos.md)
 
@@ -19,7 +19,7 @@ Template basico de markdown, especializado para proyectos individuales de  desar
 
 ### Información de Contacto
 
-#### [Enviame un mensaje](mailto:adanreh.m@gmail.com)
+#### [Envíame un mensaje](mailto:adanreh.m@gmail.com)
 
 ### Contribuciones y Problemas
 
