@@ -7,13 +7,12 @@
        alt="snake" />
 </div>
 </a>
+
 Template básico de markdown, especializado para proyectos individuales de desarrollo web Backend, para el curso de [NodeJS](https://nodejs.org/en) de [ItAcademy](https://www.barcelonactiva.cat/es/itacademy).
 
-## Información del proyecto
-
-### [Empezando](https://github.com/SKRTEEEEEE/markdowns/utils/how-start/<tipo-proyecto>)
-
 ## [Recursos](https://github.com/SKRTEEEEEE/markdowns/)
+
+### [EmpezandoEXAMPLE](https://github.com/SKRTEEEEEE/markdowns/utils/how-start/<tipo-proyecto>)
 
 ## Contacto
 
