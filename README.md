@@ -17,7 +17,8 @@ Template básico de markdown, especializado para proyectos individuales de desar
 ## Contacto
 
 ### Agradecimientos
-
+#### [🏫 Institucion: ItAcademy](https://www.barcelonactiva.cat/es/itacademy)
+#### [🧑‍🏫 Docente: Francisco](https://frivero.com.ar/)
 ### Licencia
 
 ### Información de Contacto
