@@ -7,21 +7,20 @@
        alt="snake" />
 </div>
 </a>
+
+## Información
 Template básico de markdown, especializado para proyectos individuales de  desarrollo web Fullstack(cliente y servidor).
 
 ## [Recursos](https://github.com/SKRTEEEEEE/markdowns)
 
 ## Contacto
 
-### Agradecimientos
 
-### Licencia
 
-### Información de Contacto
+### [Pagina web del desarrollador](https://profile-skrt.vercel.app)
+### [Envíame un mensaje](mailto:adanreh.m@gmail.com)
 
-#### [Envíame un mensaje](mailto:adanreh.m@gmail.com)
-
-### Contribuciones y Problemas
+## Contribuciones y Problemas
 
 Si encuentras problemas o deseas contribuir al proyecto, por favor, crea un issue en el repositorio.
 
