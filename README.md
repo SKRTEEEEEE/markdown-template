@@ -1,31 +1,25 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Markdown-basic-template
-<a href="https://github.com/SKRTEEEEEE">
+# Markdown-automation-UPCCIM-template
+<a href="https://github.com/SKRTEEEEEE/upc">
 <div align="center">
-  <img  src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/main/resources/img/grid-snake.svg"
-       alt="snake" />
-    
+  <img  src="https://github.com/SKRTEEEEEE/upc/blob/main/Pictures/banner_robot.svg"
+       alt="banner" />
 </div>
 </a>
 
+## Información
+Template básico de markdown, especializado para proyectos individuales de proyectos de automatización industrial, Industria 4.0, Robótica, etc... Para el curso de Grado 3 de automatizacion industrial de [CIM UPC](https://www.cimupc.org/)
 
+## [Recursos](https://github.com/SKRTEEEEEE/markdowns)
 
-Templates básicos de markdown, especializados para proyectos individuales en desarrollo.
+## Contacto
 
-### Empezando
-Para ver las diferentes partes del proyecto, navega a las diferentes ramas del proyecto.
-#### Estructuras ramas
-##### `main`
-Rama principal del proyecto.
-##### [`blockchain`](https://github.com/SKRTEEEEEE/markdown-template/tree/blockchain)
-Version en Sp para proyectos fullstack
-##### [`fullstack`](https://github.com/SKRTEEEEEE/markdown-template/tree/fullstack)
-Version en Sp para proyectos fullstack
-##### [`itacademy`](https://github.com/SKRTEEEEEE/markdown-template/tree/itacademy)
-Version en Sp para proyectos del Curso de NodeJS de ItAcademy
+### [Pagina web del desarrollador](https://profile-skrt.vercel.app)
+### [Envíame un mensaje](mailto:adanreh.m@gmail.com)
 
+## Contribuciones y Problemas
 
-
+Si encuentras problemas o deseas contribuir al proyecto, por favor, crea un issue en el repositorio.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
