@@ -24,6 +24,8 @@ Version en Sp para proyectos fullstack
 Version en Sp para proyectos fullstack
 ##### [`itacademy`](https://github.com/SKRTEEEEEE/markdown-template/tree/itacademy)
 Version en Sp para proyectos del Curso de NodeJS de ItAcademy
+##### [`cim upc`](https://github.com/SKRTEEEEEE/markdown-template/tree/automation)
+Version en Sp para proyectos del Curso de Programación Industrial de CIM UPC
 
 
 
